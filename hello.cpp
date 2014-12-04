@@ -1,6 +1,0 @@
-main()
-{
-
-cout "Hello World";
-
-}
